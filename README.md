@@ -15,7 +15,7 @@ The project consists of the following services:
 4. **Redis:** A Redis server used for state storage across the services.
 
 5. **Postgres:** A Postgres server acting as a database for storing vector embeddings.
-
+![Microservices](readme_media/microservices.jpeg)
 ## Setup
 
 To get the project up and running, make sure Docker is installed on your system.
